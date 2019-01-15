@@ -1,0 +1,12 @@
+[
+    {
+      "name":"lc-template",
+      "url":"github:Sunpw/lc-test",
+      "description":"基于学习中心项目模板"
+    },
+    {
+      "name":"other-template",
+      "url":"github:Sunpw/lc-test",
+      "description":"基于其他项目模板"
+    }
+]
